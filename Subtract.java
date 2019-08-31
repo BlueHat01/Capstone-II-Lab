@@ -1,7 +1,7 @@
 class subtract
 {
-	String get(int n1,int n2)
+	int get(int n1,int n2)
 	{
-		return "Subtaction selected";
+		return n1-n2;
 	}
 }
